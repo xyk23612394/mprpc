@@ -1,0 +1,18 @@
+0:34:14 =>[info] first log message!
+0:34:14 =>[info] /root/mprpc/example/callee/friendservice.cc:main:44
+0:34:14 =>[info] service_name:FriendServiceRpc
+0:34:14 =>[info] method_name:GetFriendsList
+12:42:26 =>[info] first log message!
+12:42:26 =>[info] /root/mprpc/example/callee/friendservice.cc:main:44
+12:42:26 =>[info] service_name:FriendServiceRpc
+12:42:26 =>[info] method_name:GetFriendsList
+13:2:52 =>[info] first log message!
+13:2:52 =>[info] /root/mprpc/example/callee/friendservice.cc:main:44
+13:2:52 =>[info] service_name:FriendServiceRpc
+13:2:52 =>[info] method_name:GetFriendsList
+13:3:15 =>[info] arges_size = 3
+13:6:49 =>[info] first log message!
+13:6:49 =>[info] /root/mprpc/example/callee/friendservice.cc:main:44
+13:6:49 =>[info] service_name:FriendServiceRpc
+13:6:49 =>[info] method_name:GetFriendsList
+13:6:51 =>[info] arges_size = 3

@@ -1,0 +1,2 @@
+22:26:32 =>[error] first log message!
+22:26:32 =>[error] /root/mprpc/example/callee/friendservice.cc:main:44
